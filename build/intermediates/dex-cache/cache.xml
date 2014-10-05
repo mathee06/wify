@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Mathee\AndroidStudioProjects\wify\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-29603a0ab3e325078ed23736bb6b4a8d1b341f9f.jar"
+        jar="C:\Users\Mathee\AndroidStudioProjects\wify\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Mathee\AndroidStudioProjects\wify\app\build\intermediates\pre-dexed\debug\classes-c43d6cb199c36bb4db61ccd38ec053d8c8134e98.jar"
+        jar="C:\Users\Mathee\AndroidStudioProjects\wify\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Mathee\AndroidStudioProjects\wify\app\build\intermediates\pre-dexed\debug\classes-81927d0b2342f0504629e3130938f864672d3a12.jar"
+        jar="C:\Users\Mathee\AndroidStudioProjects\wify\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="C:\Users\Mathee\AndroidStudioProjects\wify\app\build\intermediates\pre-dexed\debug\classes-ba20fc0df75b457a18bc78152e8ea32c9600100a.jar"
+        jar="C:\Users\Mathee\AndroidStudioProjects\wify\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.77\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b6a82434c1eca686607867cd906bcc80ed987837"/>
+    <item
+        dex="C:\Users\Mathee\AndroidStudioProjects\wify\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-5d7e4cb3743aa3140da033e815058188449d4cce.jar"
+        jar="C:\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Mathee\AndroidStudioProjects\wify\app\build\intermediates\pre-dexed\debug\classes-6852be611a1403899e8a42236589666b0178a5ec.jar"
+        jar="C:\Users\Mathee\AndroidStudioProjects\wify\app\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\19.0.1\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b1701c49371231e0423b7588539f24bdab485019"/>
+
+</pre-dex-items>

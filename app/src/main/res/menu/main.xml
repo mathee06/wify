@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.wify.app.MainActivity" >
+    <item android:id="@+id/action_example"
+        android:title="@string/action_example"
+        app:showAsAction="withText|ifRoom" />
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_item_clear_geofence1"
+        android:title="@string/menu_item_clear_geofence1"></item>
+    <item
+        android:id="@+id/menu_item_clear_geofence2"
+        android:title="@string/menu_item_clear_geofence2"></item>
+    <item
+        android:id="@+id/menu_item_clear_geofences"
+        android:title="@string/menu_item_clear_all_geofences"></item>
+    <item
+        android:id="@+id/menu_item_clear_geofence_history"
+        android:title="@string/menu_item_clear_geofence_history"></item>
+</menu>
